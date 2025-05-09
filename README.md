@@ -23,10 +23,11 @@ lib/
 
 1. Stelle sicher, dass Flutter auf deinem Rechner installiert ist.
 2. Klone dieses Repository:
-3. ⁠3. Wechsle in den Projektordner:
-4. ⁠4. Abhängigkeiten installieren:
-5. ⁠5. App starten:
-6. ⁠## Git-Branching-Strategie
+3. Wechsle in den Projektordner:
+4. Abhängigkeiten installieren:
+5. App starten:
+
+⁠## Git-Branching-Strategie
 
 - Die Entwicklung erfolgt in sogenannten Feature-Branches.
 - Beispiel: Der Branch feature/startseite enthält die Startseite der App.
